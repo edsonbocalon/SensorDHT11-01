@@ -39,3 +39,9 @@ Se necessário, use uma resistência de 10kΩ entre o VCC e o pino Data.
 ##### 2. Faça o upload do código para o ESP32.
 ##### 3. Abra o Monitor Serial e anote o endereço IP exibido.
 ##### 4. Acesse o endereço IP no navegador para visualizar os dados.
+
+# Exemplo de Resultado
+##### Ao acessar o endereço IP do ESP32 no navegador, verá algo como:
+#####Monitor de Temperatura e Umidade
+* Temperatura: 25.50 °C
+* Umidade: 60.00 %
