@@ -42,6 +42,6 @@ Se necessário, use uma resistência de 10kΩ entre o VCC e o pino Data.
 
 # Exemplo de Resultado
 ##### Ao acessar o endereço IP do ESP32 no navegador, verá algo como:
-#####Monitor de Temperatura e Umidade
+##### Monitor de Temperatura e Umidade
 * Temperatura: 25.50 °C
 * Umidade: 60.00 %
